@@ -13,6 +13,8 @@ public class hello(){
 		system.out.println("测试!!!");
 		system.out.println("测试!!!");
 		system.out.println("本地测试!!!");
+		system.out.println("测试!!!");
+		system.out.println("远程仓库remote!!!");
 
 	}
 }
